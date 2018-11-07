@@ -1,0 +1,13 @@
+Nombre del equipo: Team Chingón 
+
+Nombres de los integrantes del equipo:
+- Jesús Maximiliano Meléndez Hererra
+- Carla Pérez Gavilán Del Castillo
+- Luis Emilio Alcántara Guzmán 
+- Enrique Orduña Ávila
+- Rodrigo Sibaja Villarreal
+
+Descripción de las actividades abordada en sus presentaciones:
+Analizamos el caso de Mark Zucketberg en la clase de Intro a la carrera, y relacionamos lo sucedido con el reglamento y códigos de ética de la ACM.
+
+
