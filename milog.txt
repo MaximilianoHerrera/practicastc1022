@@ -1,0 +1,109 @@
+commit 2ebc1fac6f7f6cd2cf0310f373ec0df6dff74bef
+Merge: 865b869 1ac7ab5
+Author: MaximilianoHerrera <a01023286@itesm.mx>
+Date:   Wed Nov 7 11:31:35 2018 -0600
+
+    resolví conflicto
+
+commit 865b8696db55980b27d7bc2d46b0ad75b7742042
+Author: MaximilianoHerrera <a01023286@itesm.mx>
+Date:   Wed Nov 7 11:26:08 2018 -0600
+
+    actualizacion local
+
+commit 1ac7ab53416a5afc584c206c9bdbf200a1cb73fa
+Author: MaximilianoHerrera <42215179+MaximilianoHerrera@users.noreply.github.com>
+Date:   Wed Nov 7 11:24:50 2018 -0600
+
+    Update tarea10.txt
+    
+    Modificación remota de tarea10
+
+commit b3100b71e752f29b62d81e5c9005e77b3dc85e5b
+Merge: 8696b97 bce3298
+Author: MaximilianoHerrera <a01023286@itesm.mx>
+Date:   Wed Nov 7 11:13:42 2018 -0600
+
+    Merge branch 'master' of https://github.com/MaximilianoHerrera/practicastc1022
+    
+    Este merge es para combinar tarea10 local con tarea11 remota
+
+commit bce329869ca4e47a46fc5487a48f2de83d7b80b7
+Author: MaximilianoHerrera <42215179+MaximilianoHerrera@users.noreply.github.com>
+Date:   Wed Nov 7 11:12:52 2018 -0600
+
+    Create tarea11.txt
+    
+    Subí mi tarea en el repositorio remoto
+
+commit 8696b97c5316d60b67e4acc021ff47ff182f1e0f
+Author: MaximilianoHerrera <a01023286@itesm.mx>
+Date:   Wed Nov 7 11:11:02 2018 -0600
+
+    Tarea Local
+
+commit b632ff06c38254b8d00a025d8296567f3b224480
+Author: MaximilianoHerrera <42215179+MaximilianoHerrera@users.noreply.github.com>
+Date:   Fri Oct 26 11:03:21 2018 -0500
+
+    Add files via upload
+
+commit fd1b38260c749aae7c7a6e506bfe07619ec66aeb
+Author: MaximilianoHerrera <42215179+MaximilianoHerrera@users.noreply.github.com>
+Date:   Fri Oct 26 10:51:39 2018 -0500
+
+    Add files via upload
+
+commit bf8f6bd68f2bda95002086299d56b2af48220eb8
+Author: MaximilianoHerrera <42215179+MaximilianoHerrera@users.noreply.github.com>
+Date:   Fri Oct 26 10:33:42 2018 -0500
+
+    Add files via upload
+
+commit b43f37faf17b25b3a3bc0a8c64cd29266970e1d7
+Author: MaximilianoHerrera <42215179+MaximilianoHerrera@users.noreply.github.com>
+Date:   Fri Oct 26 10:21:47 2018 -0500
+
+    Add files via upload
+    
+    Programas en clase
+
+commit 30a2ce7c8665e1985a344c32f9a4e94a65685e35
+Author: MaximilianoHerrera <a01023286@itesm.mx>
+Date:   Wed Oct 24 11:57:13 2018 -0500
+
+    exportar archivos encriptados
+
+commit 2a068b77cf0509e83f921a075c1be727bf0f32bd
+Author: MaximilianoHerrera <42215179+MaximilianoHerrera@users.noreply.github.com>
+Date:   Wed Oct 24 11:42:40 2018 -0500
+
+    Add files via upload
+
+commit 4e9f02a8806cb4fca8ae6c7924cab73ac39ec3f2
+Author: MaximilianoHerrera <42215179+MaximilianoHerrera@users.noreply.github.com>
+Date:   Wed Oct 24 11:32:24 2018 -0500
+
+    Add files via upload
+    
+    Tarea plática Drink IQ
+
+commit 522db60e0c9b0b29161ec8f96066bab1c0d627ab
+Author: MaximilianoHerrera <42215179+MaximilianoHerrera@users.noreply.github.com>
+Date:   Wed Oct 24 11:15:58 2018 -0500
+
+    Delete myPrivateKey.gpg
+    
+    se eliminó la llave privada
+
+commit 29a6a369736745760cb6289cbea9dcb1b4e3668e
+Author: MaximilianoHerrera <a01023286@itesm.mx>
+Date:   Wed Oct 24 11:02:15 2018 -0500
+
+    exportar llaves públicas y privadas
+
+commit 99d17cae67d3e0587f2f0685fa6c76d68ae17a62
+Author: MaximilianoHerrera <a01023286@itesm.mx>
+Date:   Wed Oct 10 12:16:24 2018 -0500
+
+    primer commit
